@@ -1,9 +1,7 @@
-### Hi there 
-<img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucifill&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95" />
 
-Hi 
 
 You should just find one thing to figure out.
 

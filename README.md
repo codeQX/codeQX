@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there 
+<img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JessYanCoding&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucifill&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95" />
 
-Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+Hi 
 
 You should just find one thing to figure out.
+
 一招鲜吃遍天
 
 <!--
@@ -12,6 +14,7 @@ You should just find one thing to figure out.
 
 Here are some ideas to get you started:
 
+- 👋 Hi
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

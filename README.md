@@ -6,7 +6,7 @@
 
 
 
-You should just find one thing to figure out.
+You should just do one thing and figure it out.
 
 一招鲜吃遍天
 

@@ -8,7 +8,7 @@
 
 You should just do one thing and figure it out.
 
-一招鲜吃遍天
+do it schedule.
 
 <!--
 **lucifill/lucifill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
